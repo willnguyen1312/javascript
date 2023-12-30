@@ -1,7 +1,5 @@
 {
-  "authors": [
-    "rchavarria"
-  ],
+  "authors": ["rchavarria"],
   "contributors": [
     "amscotti",
     "ankorGH",
@@ -14,15 +12,9 @@
     "xarxziux"
   ],
   "files": {
-    "solution": [
-      "matrix.js"
-    ],
-    "test": [
-      "matrix.spec.js"
-    ],
-    "example": [
-      ".meta/proof.ci.js"
-    ]
+    "solution": ["matrix.js"],
+    "test": ["matrix.spec.js"],
+    "example": [".meta/proof.ci.js"]
   },
   "blurb": "Given a string representing a matrix of numbers, return the rows and columns of that matrix.",
   "source": "Exercise by the JumpstartLab team for students at The Turing School of Software and Design.",
